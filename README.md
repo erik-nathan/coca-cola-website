@@ -1,7 +1,7 @@
 # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
  ```sh# Site (não oficial) da Coca-Cola
-  Site (não oficial) do Coca-Cola feito por um Tutorial do YouTube
+  Site (não oficial) da Coca-Cola feito por um Tutorial do YouTube!
 ```
  
 ## Sobre o repositório
